@@ -1,6 +1,8 @@
 # Hacker News Teknoloji Depremleri Analizi
+**Hazırlayan:** Tülin Eren
 
-## Grafikler
+##  İnteraktif Grafikler
+Grafikleri görmek için aşağıdaki linklere tıklayın:
 
 - [Grafik 1 — Yıllara Göre HN Aktivitesi](grafik1_yillik_aktivite.html)
 - [Grafik 2 — Isı Haritası](grafik2_isi_haritasi.html)
